@@ -1,0 +1,28 @@
+/* Стили для кнопок */
+button {
+      padding: 10px 20px;
+      margin: 5px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+  }
+  
+  /* Стили для заголовка */
+  h1 {
+      font-size: 24px;
+      color: #333;
+      margin-bottom: 20px;
+  }
+  
+  /* Стили для кнопок при наведении */
+  button:hover {
+      background-color: #45a049;
+  }
+  
+  /* Стили для кнопок при активации */
+  button:active {
+      background-color: #3e8e41;
+  }
+  
